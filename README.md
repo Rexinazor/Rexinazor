@@ -11,3 +11,9 @@
 <p align="center">
   <img src="https://telegra.ph/file/79f866c88bde7df5f3ba4.jpg">
 </p>
+
+  
+- 👀 I’m interested in ...IDK 
+- 💤 AFK Mostly
+- 👻 Fun Fact: I'm Still Student
+- 🔥 If too lazy to pronounce 'Rexinazor' you can just call me 'Rexi'
