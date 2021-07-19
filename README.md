@@ -1,4 +1,4 @@
 ### HEY Comradeツ 🤙🏻
 
-I'm just a silly guy who usually focus here ¯\_(ツ)_/¯ 
+I'm just a silly guy who scarcely focus here ¯\_(ツ)_/¯ 
  
