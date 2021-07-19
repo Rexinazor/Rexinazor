@@ -17,3 +17,5 @@
 - 💤 AFK Mostly
 - 👻 Fun Fact: I'm Still Student
 - 🔥 If too lazy to pronounce 'Rexinazor' you can just call me 'Rexi'
+  
+  [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
