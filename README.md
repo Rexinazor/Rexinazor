@@ -5,7 +5,7 @@
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/Rexinazor)
-- ![Rexinazor's github stats]((https://readmestats.vercel.app/api?username=Rexinazor&show_icons=true&title_color=333&icon_color=d43111&count_private=true&include_all_commits=true)
+- ![Rexinazor's github stats](https://github-readme-stats.vercel.app/api?username=Rexinazor&show_icons=true&theme=cobalt&count_private=true)
 
 <a href="https://t.me/Avrazel">
 <p align="center">
