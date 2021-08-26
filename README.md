@@ -18,7 +18,6 @@
 <a href="https://t.me/Avrazel">
 <p align="center">
   <img src="https://telegra.ph/file/79f866c88bde7df5f3ba4.jpg">
-![Profile views](https://gpvc.arturio.dev/Rexinazor)
 </p>
 
   
