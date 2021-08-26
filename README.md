@@ -4,7 +4,7 @@
 #### And Codes just for fun =)
 
 # GITHUB STATUS.
-
+- ![Profile views](https://gpvc.arturio.dev/Rexinazor)
 <h2>ℹ️ &nbsp;Some Statistics Fun</h2>
 <details>	
   <summary><b>Github Stats</b></summary>
