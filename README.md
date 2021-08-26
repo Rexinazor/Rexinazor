@@ -5,7 +5,7 @@
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/Rexinazor)
-<h2>ℹ️ &nbsp;Some Statistics Fun</h2>
+<h2>ℹ️ &nbsp;Some Freaking Statistics </h2>
 <details>	
   <summary><b>Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rexinazor&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="Rexinazor" />
