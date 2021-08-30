@@ -1,6 +1,6 @@
 ## HEY Comradeツ 🤙🏻
 
-### I'm just a silly guy who scarcely focus here (☞ﾟヮﾟ)☞
+### I'm just a silly guy who scarcely focus here 
 #### And Codes just for fun =)
 
 # GITHUB STATUS.
