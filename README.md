@@ -17,7 +17,7 @@
 </details>
 <a href="https://t.me/Avrazel">
 <p align="center">
-  <img src="https://telegra.ph/file/fd4296b4e4a9c2c148db6.jpg">
+  <img src="https://telegra.ph/file/62ac91f4ecd84041571bf.jpg">
 </p>
 
   
