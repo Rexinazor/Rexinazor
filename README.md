@@ -4,12 +4,14 @@
 #### And Codes just for fun =)
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/Rexinazor)
+- #### Profile Views 
+
+  <p align='top'><img src='https://profile-counter.glitch.me/{Rexinazor}/count.svg'
 <h2>ℹ️ &nbsp;Some Freaking Statistics </h2>
 <details>	
   <summary><b>Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rexinazor&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="Rexinazor" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexinazor&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=highcontrast" alt="dishapatel010"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexinazor&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=highcontrast" alt="Rexinazor"/>
 </details>
 <details>
  <summary><b>Github Streaks</b></summary>
