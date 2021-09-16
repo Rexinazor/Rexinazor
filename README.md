@@ -17,7 +17,7 @@
  <summary><b>Github Streaks</b></summary>
 <p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexinazor&theme=highcontrast" alt="Rexinazor" /></p>
 </details>
-<a href="https://t.me/Avrazel">
+<a href="https://t.me/Zerobyte">
 <p align="center">
   <img src="https://telegra.ph/file/62ac91f4ecd84041571bf.jpg">
 </p>
