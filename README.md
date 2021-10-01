@@ -5,7 +5,7 @@
 
 # GITHUB STATUS.
 - #### Profile Views 
-![Rexinazor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rexinzor&count_private=true)
+![Rexinazor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rexinazor&count_private=true)
   <p align='top'><img src='https://profile-counter.glitch.me/{Rexinazor}/count.svg'
 <h2>🧿 &nbsp;Some Freaking Statistics </h2>
 <details>	
