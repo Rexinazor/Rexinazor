@@ -5,7 +5,6 @@
 
 # GITHUB STATUS.
 - #### Profile Views 
-![Profile views](https://gpvc.arturio.dev/Rexinazor)
   <p align='top'><img src='https://profile-counter.glitch.me/{Rexinazor}/count.svg'
 <h2>🧿 &nbsp;Some Freaking Statistics </h2>
 <details>	
