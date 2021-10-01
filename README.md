@@ -4,7 +4,8 @@
 #### And Codes just for fun =)
 
 # GITHUB STATUS.
-- #### Profile Views 
+
+#### Profile Views 
   <p align='top'><img src='https://profile-counter.glitch.me/{Rexinazor}/count.svg'
 <h2>🧿 &nbsp;Some Freaking Statistics </h2>
 <details>	
