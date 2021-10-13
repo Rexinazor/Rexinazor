@@ -19,9 +19,9 @@
 <p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexinazor&theme=highcontrast" alt="Rexinazor" /></p>
 </details>
 <a href="https://t.me/Zenobyte">
-<p align="center">
+
   <img src="https://github.com/Rexinazor/Rexinazor/blob/main/tumblr_c78e33266ede5bd126278b0efeb08cdd_7835b113_400.gif">
-</p>
+
 
   
 - 👀 I’m interested in ...IDK 
