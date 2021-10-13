@@ -29,6 +29,6 @@
 <p align="center">
   <img src="https://github.com/Rexinazor/Rexinazor/blob/main/tumblr_c78e33266ede5bd126278b0efeb08cdd_7835b113_400.gif">
 </p>
-
-                           ## ▀ 終わりのない虚空、無限の可能性、そして悲劇的な方法 ▀
+  
+##                        ▀ 終わりのない虚空、無限の可能性、そして悲劇的な方法 ▀
 
