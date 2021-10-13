@@ -2,7 +2,7 @@
 
 ### I'm just a silly guy who scarcely focus here! 
 #### And Codes just for fun =)
-
+#### 私はウィーブですが
 # GITHUB STATUS.
 
 #### Profile Views 
