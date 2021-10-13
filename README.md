@@ -20,7 +20,7 @@
 </details>
 <a href="https://t.me/Zenobyte">
 <p align="center">
-  <img src="https://telegra.ph/file/62ac91f4ecd84041571bf.jpg">
+  <img src="https://telegra.ph/file/1719d1ee0f509dc764cac.mp4">
 </p>
 
   
