@@ -18,16 +18,14 @@
  <summary><b>Github Streaks</b></summary>
 <p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexinazor&theme=highcontrast" alt="Rexinazor" /></p>
 </details>
-<a href="https://t.me/Zenobyte">
 
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
+  [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
-
-  
 - 👀 I’m interested in ...IDK 
 - 💤 AFK Mostly
 - 👻 Fun Fact: I'm Still Student
 - 🔥 If too lazy to pronounce 'Rexinazor' just call me 'Rexi'
-  <p align="center">
-  [![](https://github.com/Rexinazor/Rexinazor/blob/main/tumblr_c78e33266ede5bd126278b0efeb08cdd_7835b113_400.gif)](#)
-  </p>
+  <a href="https://t.me/Zenobyte">
+<p align="center">
+  <img src="https://github.com/Rexinazor/Rexinazor/blob/main/tumblr_c78e33266ede5bd126278b0efeb08cdd_7835b113_400.gif">
+</p>
