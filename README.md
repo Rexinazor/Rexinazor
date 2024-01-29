@@ -1,4 +1,4 @@
-## HEY Comradeツ 
+## Never codes on purpose its just my leisure ig-
 
 
   [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
