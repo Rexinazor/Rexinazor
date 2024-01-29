@@ -1,27 +1,13 @@
-## HEY Comradeツ 🤙🏻
+## HEY Comradeツ 
 
-### I'm just a silly guy who scarcely focus here! 
-#### And Codes just for fun =)
-#### オタクです
-# GITHUB STATUS.
-
-#### Profile Views 
-<p align='top'><img src='https://profile-counter.glitch.me/{Rexinazor}/count.svg'>
 
   [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
-- 👀 I’m interested in ...IDK 
-- 💤 AFK Mostly
-- 👻 Fun Fact: I'm Still Student
-- 🔥 If too lazy to pronounce 'Rexinazor' just call me 'Rexi'
-  <a href="https://t.me/Zenobyte">
-<p align="center">
-  <img src="https://github.com/Rexinazor/Rexinazor/blob/main/tumblr_c78e33266ede5bd126278b0efeb08cdd_7835b113_400.gif">
+
 </p>
   
-  ## .......................▀ 終わりのない虚空無限の可能性そして悲劇的な方法 ▀.....................
   
-  ## 🛠️ Languages and tools
+  ## Languages and tools
 </br>
 <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
 <a href="https://www.gnu.org/software/bash/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
