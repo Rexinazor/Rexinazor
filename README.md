@@ -1,4 +1,5 @@
-## Never codes on purpose its just my leisure ig-
+## Never codes on purpose 
+## Just my leisure
 
 
   [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
