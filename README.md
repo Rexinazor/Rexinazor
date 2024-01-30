@@ -1,5 +1,5 @@
 ### Never codes on purpose 
-### Just my leisure
+Just my leisure
 
 
   [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
